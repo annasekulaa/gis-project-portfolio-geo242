@@ -15,3 +15,7 @@ Anna Sekula
 
 - [Understanding map coordinates](https://github.com/annasekulaa/gis-project-portfolio-geo242/blob/main/map-coordinate-basics/understanding-coordinates.ipynb)
 - [Georeference a 1960s Miami University campus map](https://github.com/annasekulaa/gis-project-portfolio-geo242/blob/main/georefrencing.ipynb)
+
+## Map Compostion
+
+-[Band Composite](https://github.com/annasekulaa/gis-project-portfolio-geo242/blob/main/Copy_of_geo242_understand_band_composite.ipynb)
