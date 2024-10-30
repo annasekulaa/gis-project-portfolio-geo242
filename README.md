@@ -19,3 +19,7 @@ Anna Sekula
 ## Map Compostion
 
 -[Band Composite](https://github.com/annasekulaa/gis-project-portfolio-geo242/blob/main/Copy_of_geo242_understand_band_composite.ipynb)
+
+## Sptial Analysis
+
+-[Deaths from Chlorea Outbreak](https://colab.research.google.com/drive/1p_y7oxe0QNqLLf-aX8w7PXTgZ7Vp4-Yr#scrollTo=xn1jvijPqI37)
