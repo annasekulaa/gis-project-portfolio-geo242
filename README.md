@@ -20,10 +20,10 @@ Anna Sekula
 
 ## Map Composition
 
--[Band Composite](https://github.com/annasekulaa/gis-project-portfolio-geo242/blob/main/Copy_of_geo242_understand_band_composite.ipynb)
+- [Band Composite](https://github.com/annasekulaa/gis-project-portfolio-geo242/blob/main/Copy_of_geo242_understand_band_composite.ipynb)
 
 ## Spatial Analysis
 
--[Deaths from Chlorea Outbreak](https://colab.research.google.com/drive/1p_y7oxe0QNqLLf-aX8w7PXTgZ7Vp4-Yr#scrollTo=xn1jvijPqI37)
+- [Deaths from Chlorea Outbreak](https://colab.research.google.com/drive/1p_y7oxe0QNqLLf-aX8w7PXTgZ7Vp4-Yr#scrollTo=xn1jvijPqI37)
 
--[U.S. Census Data in Ohio](https://github.com/annasekulaa/gis-project-portfolio-geo242/blob/main/Copy_of_week_12_assignment_template.ipynb)
+- [U.S. Census Data in Ohio](https://github.com/annasekulaa/gis-project-portfolio-geo242/blob/main/Copy_of_week_12_assignment_template.ipynb)
