@@ -20,7 +20,7 @@ Anna Sekula
 
 ## Raster Image Analysis
 
-- [Band Composite](https://github.com/annasekulaa/gis-project-portfolio-geo242/blob/main/Copy_of_geo242_understand_band_composite.ipynb)
+- [Band Composite](https://github.com/annasekulaa/gis-project-portfolio-geo242/blob/main/Band%20Compostion/Copy_of_geo242_understand_band_composite.ipynb)
 
 ## Spatial Analysis using Vector Data
 
