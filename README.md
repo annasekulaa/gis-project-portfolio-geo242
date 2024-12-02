@@ -16,16 +16,16 @@ Anna Sekula
 
 - [Understanding map coordinates](https://github.com/annasekulaa/gis-project-portfolio-geo242/blob/main/map-coordinate-basics/understanding-coordinates.ipynb)
 
-## Georeferencing
-
 - [Georeference a 1960s Miami University campus map](https://github.com/annasekulaa/gis-project-portfolio-geo242/blob/main/georefrencing.ipynb)
 
-## Map Composition
+## Raster Image Analysis
 
 - [Band Composite](https://github.com/annasekulaa/gis-project-portfolio-geo242/blob/main/Copy_of_geo242_understand_band_composite.ipynb)
 
-## Spatial Analysis
+## Spatial Analysis using Vector Data
 
 - [Deaths from Chlorea Outbreak](https://colab.research.google.com/drive/1p_y7oxe0QNqLLf-aX8w7PXTgZ7Vp4-Yr#scrollTo=xn1jvijPqI37)
+
+## Census Data
 
 - [U.S. Census Data in Ohio](https://github.com/annasekulaa/gis-project-portfolio-geo242/blob/main/Copy_of_week_12_assignment_template.ipynb)
