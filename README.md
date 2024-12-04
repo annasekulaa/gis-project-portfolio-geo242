@@ -28,7 +28,7 @@ Anna Sekula
 
 ## Spatial Analysis using Vector Data
 
-- [Deaths from Chlorea Outbreak](https://colab.research.google.com/drive/1p_y7oxe0QNqLLf-aX8w7PXTgZ7Vp4-Yr#scrollTo=xn1jvijPqI37)
+- [Deaths from Chlorea Outbreak](https://github.com/annasekulaa/GEO242-Group-4-Final-Project/blob/main/Copy_of_week_10_assignment_template.ipynb)
 
 ## Census Data
 
