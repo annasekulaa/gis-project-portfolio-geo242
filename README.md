@@ -32,7 +32,7 @@ Anna Sekula
 
 ## Spatial Analysis using Raster Data
 
--[Topography of Oxford](https://github.com/annasekulaa/GEO242-Group-4-Final-Project/blob/main/Copy_of_week_09_assignment_template.ipynb)
+- [Topography of Oxford](https://github.com/annasekulaa/GEO242-Group-4-Final-Project/blob/main/Copy_of_week_09_assignment_template.ipynb)
 
 ## Census Data
 
