@@ -29,3 +29,4 @@ Anna Sekula
 ## Census Data
 
 - [U.S. Census Data in Ohio](https://github.com/annasekulaa/gis-project-portfolio-geo242/blob/main/Copy_of_week_12_assignment_template.ipynb)
+- [College Towns of Ohio Final Project](https://arcg.is/1jayDO1)
