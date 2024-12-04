@@ -12,9 +12,9 @@ Anna Sekula
   
 - [Map of North American Rivers and Basin](https://github.com/annasekulaa/gis-project-portfolio-geo242/blob/main/basic-mapping/first-qgis-mapping.ipynb)
 
-## Map Coordinates
+## Map Projections
 
-- [Understanding map coordinates](https://github.com/annasekulaa/gis-project-portfolio-geo242/blob/main/map-coordinate-basics/understanding-coordinates.ipynb)
+- [Understanding map projections](https://github.com/annasekulaa/gis-project-portfolio-geo242/blob/main/map-coordinate-basics/understanding-coordinates.ipynb)
 
 - [Georeference a 1960s Miami University campus map](https://github.com/annasekulaa/gis-project-portfolio-geo242/blob/main/georefrencing.ipynb)
 
