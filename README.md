@@ -7,8 +7,6 @@ Anna Sekula
 - GIS Portfolio
 
 ## Basic Mapping
-
-- [Map the age index based on 2000 census data](https://github.com/annasekulaa/gis-project-portfolio-geo242/blob/main/Copy_of_week_05_assignment_template.ipynb)
   
 - [Map of North American Rivers and Basin](https://github.com/annasekulaa/gis-project-portfolio-geo242/blob/main/basic-mapping/first-qgis-mapping.ipynb)
 
@@ -34,8 +32,14 @@ Anna Sekula
 
 - [Topography of Oxford](https://github.com/annasekulaa/GEO242-Group-4-Final-Project/blob/main/Copy_of_week_09_assignment_template.ipynb)
 
-## Census Data
+## US Census Data
 
 - [U.S. Census Data in Ohio](https://github.com/annasekulaa/gis-project-portfolio-geo242/blob/main/Copy_of_week_12_assignment_template.ipynb)
+
+- [Map the age index based on 2000 census data](https://github.com/annasekulaa/gis-project-portfolio-geo242/blob/main/Copy_of_week_05_assignment_template.ipynb)
   
 - [College Towns of Ohio Final Project](https://arcg.is/1jayDO1)
+
+## Digital Elevation Modeling
+
+- [The World in 3D](https://github.com/annasekulaa/gis-project-portfolio-geo242/blob/main/Copy_of_week_11_assignment_template.ipynb)
