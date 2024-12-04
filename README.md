@@ -30,6 +30,10 @@ Anna Sekula
 
 - [Deaths from Chlorea Outbreak](https://github.com/annasekulaa/GEO242-Group-4-Final-Project/blob/main/Copy_of_week_10_assignment_template.ipynb)
 
+## Spatial Analysis using Raster Data
+
+-[Topography of Oxford](https://github.com/annasekulaa/GEO242-Group-4-Final-Project/blob/main/Copy_of_week_09_assignment_template.ipynb)
+
 ## Census Data
 
 - [U.S. Census Data in Ohio](https://github.com/annasekulaa/gis-project-portfolio-geo242/blob/main/Copy_of_week_12_assignment_template.ipynb)
